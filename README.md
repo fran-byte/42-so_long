@@ -1,1 +1,3 @@
-# 42-so_long
+# Milestone 2
+
+## so_long
